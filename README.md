@@ -1,13 +1,16 @@
-Hi there 👋, I'm Hasanur Rahman
+### Hi there 👋, I'm **Hasanur Rahman**  
+A **Passionate Software Developer**
 
-A Passionate Software Developer
+I'm a **dedicated and enthusiastic** software developer with a deep passion for learning and exploring new technologies.
 
-I’m a dedicated and enthusiastic software developer with a deep passion for learning and exploring new technologies.
+🚀 **About Me**:
 
-🌱 Currently working with Next.js
-🔧 Proficient in Redux, RTK Query, React Query, GraphQL, REST APIs, React Hook Form, and more
-🧠 Familiar with MERN Stack Development
-🤝 Actively seeking collaboration opportunities to build a strong development team and contribute to open source projects
+🌱 I'm currently working with **Next.js**  
+🔧 Proficient in **Redux, RTK Query, React Query, GraphQL, REST APIs, React Hook Form**, and more  
+🧠 Familiar with **MERN Stack Development**  
+🤝 Actively seeking collaboration opportunities to build a strong development team and contribute to **open source projects**  
+💬 Ask me about **React, Node.js, JavaScript, and Full-stack Development**  
+📫 How to reach me: **hasanurcse16@gmail.com**
 
 ## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasancse16) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasanurcse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100007283957959)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hasanurcse16/)  
